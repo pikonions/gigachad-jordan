@@ -6,3 +6,28 @@ h2{
 body{
     background-color:rgb(250, 250, 250);
 }
+nav{
+    text-align: center;
+    display: inline;
+    width: 100%;
+}
+nav ul{
+    width:100%;
+}
+nav ul li{
+    display:inline-block;
+    text-align:center;
+    padding:10px;
+    font-size:20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(250, 1, 1);
+}
+nav a:hover{
+    color: aquamarine;
+}
+.container{ 
+    background-color: burlywood;
+    border: 2px dashed cornflowerblue}
